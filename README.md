@@ -1,4 +1,5 @@
-Stockcharts is a python and bokeh implementation for stock charts
+Stockcharts is an extensible and intuitive python/bokeh implementation for stock charts.  
+This library allows you to add your own indicators by extending the **Indicator** class.
 
 ## The main classes
 

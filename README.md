@@ -52,4 +52,4 @@ p= StockChart(df) \
 show(p)
 ~~~
 
-
+![spy chart] (https://github.com/maestro27/stockcharts/blob/master/chart_with_indicators.png)
